@@ -14,7 +14,7 @@ If you want service support on this code please contact us through hello at nyda
 How to run this project:
 ------------------------
 
-- The setup script is assuming you are on Ubuntu 18.04 so you can setup an AWS instance. A minimum of 4 Gig ram and 10 gig disk space is needed. Make sure ports 2083, 2053 and 3000 are open.
+- The setup script is assuming you are on Ubuntu 18.04 so you can setup an AWS instance. A minimum of 4 Gig ram and 10 gig disk space is needed. Make sure ports 2083, 2053 and 3000 are open, these ports are for real time socket, web and backend API, You can set them to different ports in the config.env file. 
 
 1- Clone this repository
 
