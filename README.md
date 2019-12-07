@@ -22,9 +22,11 @@ How to run this project:
 
 `nydax/bin/./install.sh`
 
-3- Run run script `nydax>bin/./start.sh`
+3- Run start script `nydax>bin/./start.sh`
 
-Open Your browser and browse `http://IP:3000`.
+Open Your browser and browse `http://<Your IP>:3000`.
+
+If you have any question ,Please join NYDAX Official Telegram group https://t.me/nydax or send us an email. 
 
 Enjoy!
 
