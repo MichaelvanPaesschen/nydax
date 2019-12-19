@@ -10,7 +10,9 @@ sudo npm i -g pm2
 
 sudo apt-get install -y  yui-compressor
 
-sudo apt-get install -y yarn
+#sudo apt-get install -y yarn
+sudo npm install -g yarn
+
 
 sudo apt-get install -y mysql-server
 echo "building front end code ..."
